@@ -10,8 +10,8 @@
   "status",
   "page"
  ],
- "synced_utc": "2026-11-07T17:58:33Z",
- "count": 9,
+ "synced_utc": "2026-11-07T17:59:29Z",
+ "count": 12,
  "not_in_central": [
   "EV-0223",
   "EV-0224",
@@ -41,6 +41,33 @@
    "title": "Reported lease of 6 November 1877 to John Williams (original unlocated)",
    "date_display": "6 November 1877 (as reported in Mary Williams's later account; matching instrument not identified)",
    "date_sort": "1877-11-06",
+   "status": "PENDING",
+   "page": null
+  },
+  "EV-0013": {
+   "id": "EV-0013",
+   "kind": "evidence",
+   "title": "Bute conveyance of 23 February 1905 referred to on the WA231076 file",
+   "date_display": "23 February 1905",
+   "date_sort": "1905-02-23",
+   "status": "PENDING",
+   "page": null
+  },
+  "EV-0014": {
+   "id": "EV-0014",
+   "kind": "evidence",
+   "title": "Bute yearly agricultural tenancy to John Williams, with plan",
+   "date_display": "February 1916",
+   "date_sort": "1916-02-00",
+   "status": "PENDING",
+   "page": "/research/evidence/ev-0014-bute-tenancy-john-williams-1916/"
+  },
+  "EV-0015": {
+   "id": "EV-0015",
+   "kind": "evidence",
+   "title": "Drain agreement and plan between John, Marquis of Bute and James Pelham Stuart Corbett",
+   "date_display": "15 May 1924",
+   "date_sort": "1924-05-15",
    "status": "PENDING",
    "page": null
   },
