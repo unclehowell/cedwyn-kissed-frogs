@@ -10,20 +10,10 @@
   "status",
   "page"
  ],
- "synced_utc": "2026-11-07T17:59:29Z",
- "count": 12,
+ "synced_utc": "2026-11-08T06:40:45Z",
+ "count": 22,
  "not_in_central": [
-  "EV-0223",
-  "EV-0224",
-  "EV-0225",
-  "EV-0228",
-  "EV-0232",
-  "EV-0233",
-  "EV-0234",
-  "EV-0235",
-  "EV-0236",
-  "EV-0237",
-  "EV-0238"
+  "EV-0234"
  ],
  "items": {
   "EV-0006": {
@@ -133,6 +123,96 @@
    "date_sort": "1987-00-00",
    "status": "HELD",
    "page": null
+  },
+  "EV-0223": {
+   "id": "EV-0223",
+   "kind": "evidence",
+   "title": "1881 census: reported Llandough Home Farm / R-W-S-S Farm wording",
+   "date_display": null,
+   "date_sort": null,
+   "status": null,
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0223-1881-census-name-variant/"
+  },
+  "EV-0224": {
+   "id": "EV-0224",
+   "kind": "evidence",
+   "title": "1881 census, Llandough, RG11/5288 page 2: “Llandough Home Farm”, John Williams, farmer",
+   "date_display": "Census night, 3 April 1881",
+   "date_sort": "1881-04-03",
+   "status": "HELD (photo). Transcribed by Tab from the photo, 19 Oct 2026.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0224-1881-census-llandough-rg11-5288/"
+  },
+  "EV-0225": {
+   "id": "EV-0225",
+   "kind": "evidence",
+   "title": "Trade directories, 1868–1901: John Williams at “Great House”, Llandough",
+   "date_display": "1868, 1875, 1880, 1887, 1891 and 1901",
+   "date_sort": "1868",
+   "status": "HELD (public online copy). Quotes read from the linked pages, 19 Oct 2026.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0225-trade-directories-1868-1901-john-williams-great-house/"
+  },
+  "EV-0228": {
+   "id": "EV-0228",
+   "kind": "evidence",
+   "title": "Llandough Farm and the Rees family, 1841–1910 (a separate farm, recorded for disambiguation)",
+   "date_display": "c.1841; 1865; 1886; 1898; 1910",
+   "date_sort": "1841",
+   "status": "HELD (public online copies).",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0228-llandough-farm-rees-family-1841-1910/"
+  },
+  "EV-0232": {
+   "id": "EV-0232",
+   "kind": "evidence",
+   "title": "Commons Registration (Glamorgan) Act 1983 (c. ix)",
+   "date_display": "Royal Assent 26 July 1983; in force 1 September 1983 (s.1(2))",
+   "date_sort": "1983-07-26",
+   "status": "HELD (public online copy). Full text read (OCR), 19 Oct 2026.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0232-commons-registration-glamorgan-act-1983/"
+  },
+  "EV-0233": {
+   "id": "EV-0233",
+   "kind": "evidence",
+   "title": "DBDT129/3: Agreement (counterpart) for tenancy of Llandough Farm, parish of Penarth, Western Ground Rents Limited to Messrs David and Thomas Thomas",
+   "date_display": "August 1940",
+   "date_sort": "1940-08",
+   "status": "PENDING — catalogue verified, document not seen.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0233-dbdt129-3-wgr-thomas-llandough-farm-tenancy-1940/"
+  },
+  "EV-0235": {
+   "id": "EV-0235",
+   "kind": "evidence",
+   "title": "Hansard (Commons), Leasehold Bill debate: Llandough Estate and Lakeside Estate ground rents",
+   "date_display": "7 December 1962",
+   "date_sort": "1962-12-07",
+   "status": "HELD (public online copy). Text read 19 Oct 2026.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0235-hansard-1962-leasehold-bill-llandough-estate/"
+  },
+  "EV-0236": {
+   "id": "EV-0236",
+   "kind": "evidence",
+   "title": "Local Government Board, Water undertakings (England and Wales) Return: Bute estate spring supply at Llandough",
+   "date_display": "28 July 1914 (Return to an order of the House of Commons dated 24 November 1910)",
+   "date_sort": "1914-07-28",
+   "status": "HELD (public online copy, OCR). Whether this supply served Great House Farm: UNCONFIRMED.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0236-water-undertakings-return-1914-bute-spring-llandough/"
+  },
+  "EV-0237": {
+   "id": "EV-0237",
+   "kind": "evidence",
+   "title": "Papers of Patrick Clavell Blount (National Anti-Fluoridation Campaign): file “Wales”",
+   "date_display": "1972–1989",
+   "date_sort": "1972",
+   "status": "PENDING — ON HOLD. File not opened. No document links Mary (Nancy) Williams, formerly Buckler, to it.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0237-pending-wellcome-pp-pcb-c-1-47-anti-fluoridation-wales/"
+  },
+  "EV-0238": {
+   "id": "EV-0238",
+   "kind": "evidence",
+   "title": "Press: Williams entries “of Llandough Farm”, 1903 and 1914",
+   "date_display": "28 November 1903; 3 April 1914",
+   "date_sort": "1903-11-28",
+   "status": "HELD (public online copies). Identity of these people: UNRESOLVED.",
+   "page": "https://research.bucklerfamily.estate/evidence/ev-0238-williams-of-llandough-farm-1903-1914-unexplained/"
   }
  }
 }
